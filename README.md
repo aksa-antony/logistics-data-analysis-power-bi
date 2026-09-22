@@ -47,9 +47,12 @@ The dashboard includes filters for:
 ### Overview
 Provides a summary of logistics operations using KPI cards, filters, revenue analysis, shipment status, delivery delays, state-level performance, and revenue trends.
 
+![Logistics Operations Dashboard](logistics-data-overview.png)
+
 ### Detailed Analysis
 Provides additional analysis of on-time delivery performance, delivery priority, shipment distribution by state and warehouse, and profit contribution by vehicle type.
 
+![Detailed Logistics Analysis](logistics-detailed-analysis.png)
 ## Tools Used
 - Microsoft Power BI
 - Power Query
